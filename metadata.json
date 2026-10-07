@@ -1,0 +1,7 @@
+{
+  "name": "Nexovira AI Solution",
+  "description": "Enterprise AI, custom software development, CRM/ERP solutions, intelligent automation, and micro-SaaS engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
